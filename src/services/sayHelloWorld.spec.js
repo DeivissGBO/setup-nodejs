@@ -4,7 +4,7 @@ describe('Say Hello tests', () => {
     it('Should say Hello World', () => {
         const response = sayHelloWorld.sayHello();
 
-        expect(response).toBe('Hello World!');
+        expect(response).toBe('Hello Worldddd!');
     });
 
     it('Should say Hello Germano', () => {
